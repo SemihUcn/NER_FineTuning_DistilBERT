@@ -9,16 +9,6 @@ It is built using the Hugging Face `transformers` library.
 - Includes tokenizer and trained model weights
 - Example predictions on custom input sentences
 
-## 📂 Project Structure
-```
-.
-├── ner_distilbert/               # Fine-tuned model files
-│   ├── config.json
-│   ├── model.safetensors
-│   ├── tokenizer.json
-│   └── ...
-├── Restaurant_Search_NER_Recognition_By_Fine_Tuning_DistilBERT.ipynb  # Training & inference notebook
-```
 
 ## 🔧 Requirements
 - Python 3.8+
